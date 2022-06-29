@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "2.2.0",
+    "description": "The label for version 2.2.0"
+  },
+  "sidebar.tutorialSidebar.category.Integration Guides": {
+    "message": "Integration Guides",
+    "description": "The label for category Integration Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Basic Integration": {
+    "message": "Basic Integration",
+    "description": "The label for category Basic Integration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Build Package": {
+    "message": "Build Package",
+    "description": "The label for category Build Package in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Integration Verification": {
+    "message": "Integration Verification",
+    "description": "The label for category Integration Verification in sidebar tutorialSidebar"
+  }
+}
